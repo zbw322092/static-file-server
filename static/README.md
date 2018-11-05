@@ -1,0 +1,1 @@
+Static files stored here 
